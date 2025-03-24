@@ -15,6 +15,16 @@ public class BankAccount {
 		this.balance += amount;
 	}
 	
+	public void withdraw(double amount) {
+		if (amount > balance)   {
+			 throw new IllegalArgumentException("Insufficient funds.");
+		} 
+		if (amount < 0) {
+			throw new IllegalArgumentException("You cannot withdraw a negative amount.");
+		}
+		this.balance -= amount;
+	}
+	
 	public double getCurrentBalance() {
 		return this.balance;
 	}
