@@ -2,9 +2,9 @@
 
 Team Members:
 
-*
-*
-*
+* Jillian Tarlowe
+* Naren Chittem
+* Matt Walker
 *
 
 For each iteration you should answer the following:
