@@ -2,10 +2,10 @@
 
 Team Members:
 
-*
-*
-*
-*
+* Charlotte Guo
+* Demi Ren
+* Bemi Folayan
+* Emily Han
 
 For each iteration you should answer the following:
 
